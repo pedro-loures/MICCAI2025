@@ -26,7 +26,7 @@ import pydicom
 
 # Constants
 STARTING_TIME = datetime.now().strftime("%Y%m%d_%H%M%S")
-LOG_PATH = f"logs/{STARTING_TIME}_merger.log"
+LOG_PATH = f"logs/merger/{STARTING_TIME}_merger.log"
 
 
 # Ensure the logs directory exists
