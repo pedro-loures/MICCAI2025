@@ -4,6 +4,7 @@
     "(0018,0082)": "Inversion Time (TI)",
     "(0018,1314)": "Flip Angle",
     "(0018,0091)": "Echo Train Length (ETL)",
+    "(0018,9087)": "Diffusion B-value",
     "(0020,000D)": "'Study Instance UID",
     "(0020,000E)": "'Series Instance UID",
     "(0020,0052)": "'Frame of Reference UID",
